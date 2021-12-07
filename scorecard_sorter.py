@@ -4,7 +4,7 @@
 @Date Modified: 12/2/2021
 @Purpose:
     This program is designed to seek out and store monthly scorecards into assigned folders.
-    This will greatly reduce the manual work on going into scorecards, check where the distributor belongs,
+    This will greatly reduce the manual work on going into scorecards, checking where the distributor belongs,
     and manually moving the scorecards into correct locations. It also helps to eliminate human error.
 """
 
